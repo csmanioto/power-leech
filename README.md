@@ -1,8 +1,6 @@
 # power-leech
 One shoot tools to Migration FROM traditional SQL DB  to AWS RedShift
 
-# Power Data Leech is a FORK of VivaReal Data Leech
-
 ### Why ?
 Redshift is a good way to analysis a lot of data!
 https://www.youtube.com/watch?v=AUvn49gey8Y
